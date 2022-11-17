@@ -12,7 +12,7 @@
  
 ## ScreenShot
 
-![This is an image](https://raw.githubusercontent.com/IGayoub/foodly-app-flutter/master/assets/img/foodlyScreens/Screen1.jpg)
+![This is an image]([https://raw.githubusercontent.com/IGayoub/foodly-app-flutter/master/assets/img/foodlyScreens/Screen1.jpg,https://raw.githubusercontent.com/IGayoub/foodly-app-flutter/master/assets/img/foodlyScreens/Screen2.jpg])
  
 
 ## Getting Started
