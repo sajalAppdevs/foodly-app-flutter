@@ -13,9 +13,10 @@
 ## ScreenShot
 
 ![This is an image]([,])
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/IGayoub/foodly-app-flutter/master/assets/img/foodlyScreens/Screen1.jpg" width="280" title="hover text">
   <img src="https://raw.githubusercontent.com/IGayoub/foodly-app-flutter/master/assets/img/foodlyScreens/Screen2.jpg" width="280" alt="accessibility text">
+ <img src="https://raw.githubusercontent.com/IGayoub/foodly-app-flutter/master/assets/img/foodlyScreens/Screen3.jpg" width="280" alt="accessibility text">
 </p>
 
 ## Getting Started
