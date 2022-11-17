@@ -1,6 +1,13 @@
-# project2
+# Foodly Project2
 
-A new Flutter project.
+**This application is not completed yet. Currently, I am working on it.**
+
+*Flutter Project : Foodly 
+ > State Mangment
+ > Screens
+ > Pattern *
+ 
+ 
 
 ## Getting Started
 
