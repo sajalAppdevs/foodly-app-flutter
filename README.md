@@ -10,6 +10,9 @@
 > Pattern
 -------
  
+## ScreenShot
+
+![This is an image](https://raw.githubusercontent.com/IGayoub/foodly-app-flutter/master/assets/img/foodlyScreens/Screen1.jpg)
  
 
 ## Getting Started
