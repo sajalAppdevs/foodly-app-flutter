@@ -3,9 +3,12 @@
 **This application is not completed yet. Currently, I am working on it.**
 
 *Flutter Project : Foodly* 
- > State Mangment
- > Screens
- > Pattern 
+> State Mangment
+-------
+> Screens
+-------
+> Pattern
+-------
  
  
 
